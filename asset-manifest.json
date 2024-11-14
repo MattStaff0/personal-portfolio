@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.fbc00891.css",
+    "main.js": "/personal-portfolio/static/js/main.6a4d4835.js",
+    "static/media/chess.png": "/personal-portfolio/static/media/chess.988fdbdfae4d6f62a322.png",
+    "static/media/fitness1.png": "/personal-portfolio/static/media/fitness1.2769c3797e4cfbfe1ff4.png",
+    "static/media/HEADSHOT.JPG": "/personal-portfolio/static/media/HEADSHOT.95932bf77b3d365a5298.JPG",
+    "static/media/Gamehub.png": "/personal-portfolio/static/media/Gamehub.5924f186c7621711cf76.png",
+    "static/media/notes1.png": "/personal-portfolio/static/media/notes1.a9d23cb62f563c1b0b39.png",
+    "index.html": "/personal-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.fbc00891.css",
+    "static/js/main.6a4d4835.js"
+  ]
+}
